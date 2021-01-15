@@ -27,3 +27,4 @@ main_css:
   contents:
     - vendor/pdfjs/web/viewer.css
     - css/pdf.css
+  filters: cssrewrite
